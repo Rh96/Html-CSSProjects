@@ -10,6 +10,8 @@
   background-color: #f4f4f4;
   margin: 0 0 118px;
   padding: 34px 169px 48px 179px;
+  background-image: url(../images/hero.jpg);
+  background-repeat: no-repeat;
 }
 
 /* NAV-BAR CONTENT */
@@ -63,6 +65,7 @@
 }
 
 .main-container-1-section-left {
+  margin-top: 3%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -116,9 +119,30 @@
   text-align: left;
   color: #505050;
 }
-.main-container-1-section-right {
-  width: 50%;
-  height: 500px;
-  border: 2px solid black;
-  margin-right: 5%;
+
+.dots {
+  margin: auto;
+  position: absolute;
+  bottom: 10%;
+  left: 45%;
+  display: flex;
+}
+.dot-orig {
+  width: 8px;
+  height: 8px;
+  margin: 54px 22px 0 63px;
+}
+
+.dot-2 {
+  width: 8px;
+  height: 8px;
+  margin: 54px 21px 0 22px;
+  opacity: 0.3;
+}
+
+.dot-3 {
+  width: 8px;
+  height: 8px;
+  margin: 54px 598px 0 21px;
+  opacity: 0.3;
 }
