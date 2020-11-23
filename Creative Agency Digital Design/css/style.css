@@ -225,3 +225,30 @@
   text-align: left;
   color: #505050;
 }
+
+.container-2-items {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.container-2-item {
+  margin: 80px 45px 17px 9px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  text-align: left;
+  color: #505050;
+}
+
+.container-2-border {
+  width: 95px;
+  height: 2px;
+  background-color: #ffe400;
+  margin-left: 46.5%;
+}
