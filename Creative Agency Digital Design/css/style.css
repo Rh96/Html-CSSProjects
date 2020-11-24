@@ -252,3 +252,119 @@
   background-color: #ffe400;
   margin-left: 46.5%;
 }
+
+.container-2-images {
+  margin: auto;
+  width: 60%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.container-2-image {
+  width: 350px;
+  height: 350px;
+  margin: 5% 10px 0px 0px;
+}
+
+.container-2-bg {
+  width: 165px;
+  height: 47px;
+  margin: 50px 94px 120px 46%;
+  padding: 18px 0px 0px 20px;
+  background-color: #ffe400;
+}
+
+.container-2-see-more-work {
+  width: 135px;
+  height: 12px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  color: #505050;
+}
+
+.container-2-content {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.container-2-content-left {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  left: 8%;
+}
+
+.container-2-content-left-title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.8;
+  letter-spacing: normal;
+  text-align: left;
+  color: #505050;
+}
+
+.container-2-content-left-text {
+  width: 505px;
+  height: 208px;
+  margin: 29px 0px 0px 0px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #505050;
+}
+
+.container-2-content-left-items {
+  width: 380px;
+  height: 150px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.container-2-content-left-item {
+  margin: 54px 0 0px 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0;
+  letter-spacing: normal;
+  text-align: left;
+  color: #505050;
+}
+
+.container-2-content-left-item-2 {
+  margin: 42px 0 0 0;
+  font-family: "Proxima Nova", Georgia, sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.83;
+  letter-spacing: normal;
+  text-align: left;
+  color: #505050;
+}
+
+.container-2-content-right {
+  width: 725px;
+  height: auto;
+  margin-right: 0%;
+}
