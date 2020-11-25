@@ -368,3 +368,180 @@
   height: auto;
   margin-right: 0%;
 }
+
+.container-2-header-2 {
+  margin: 119px 28px 29px 5px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.8;
+  letter-spacing: normal;
+  text-align: center;
+  color: #505050;
+}
+
+.container-2-header-2-content {
+  width: 754px;
+  height: 16px;
+  margin: 29px 0px 46px 29%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: right;
+  color: #505050;
+}
+
+.container-2-team-members {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.container-2-team-member {
+  height: auto;
+  margin: 0px 0px 20px 0;
+  padding: 0 25px 0 0;
+}
+
+.container-2-team-member-title {
+  margin: 20px 12px 5px 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #505050;
+}
+
+.container-2-team-member-content {
+  margin: 0px 81px 24px 0px;
+  opacity: 0.8;
+  font-family: "Proxima Nova", Georgia, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgba(80, 80, 80, 0.8);
+}
+
+.container-2-team-member-phone {
+  font-family: "Proxima Nova", Georgia, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #505050;
+}
+
+.container-2-subscribe {
+  width: 1110px;
+  height: 157px;
+  margin: 120px 20% 49px;
+  padding: 53px 95px 55px 71px;
+  background-color: #f4f4f4;
+  display: flex;
+}
+
+.container-2-subscribe-title {
+  width: 400px;
+  height: 22px;
+  margin: 0 117px 13px 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #505050;
+}
+
+.container-2-subscribe-content {
+  width: 500px;
+  height: 14px;
+  margin: 5px 0 0 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #505050;
+}
+
+.container-2-subscribe-input {
+  width: 445px;
+  height: 42px;
+  margin: 10px 0 0px 27px;
+  padding: 0 0 0 36px;
+  border: solid 1px #ededed;
+  background-color: #ffffff;
+}
+
+.container-2-subscribe-input-text {
+  margin: 12px 0px 17px 0;
+  opacity: 0.4;
+  font-family: "Proxima Nova", Georgia, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgba(80, 80, 80, 0.4);
+}
+
+.container-2-subscribe-input-button {
+  width: 131px;
+  height: 42px;
+  float: right;
+  margin: -44px 0 0 0;
+  padding: 16px 27px 16px 28px;
+  border: solid 1px #ededed;
+  background-color: #ffe400;
+}
+
+.container-2-subscribe-input-button-text {
+  font-family: "Proxima Nova", Georgia, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #505050;
+}
+
+.container-2-footer {
+  margin: 49px 83px 2% 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #505050;
+}
